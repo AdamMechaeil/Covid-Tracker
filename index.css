@@ -1,0 +1,23 @@
+
+body{
+
+  background-image: url(https://static.businessworld.in/article/article_extra_large_image/1585800027_z1BUns_200324_D_HN545_003.JPG);
+}
+
+.container{
+opacity: 0.95;
+}
+
+h1{
+  text-align: center; 
+  color:yellow;
+}
+#world{
+  opacity: 2;
+}
+#india{
+  opacity: 2;
+}
+.dropdown{
+  opacity: 2;
+}
