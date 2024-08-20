@@ -1,7 +1,7 @@
 fetchDataWorld();
 
 // Grab html fields by id
-
+// The api doesn't work anymore, haha noob
 var World = document.getElementById("world");
 var India = document.getElementById("india");
 var States = document.getElementById("states");
